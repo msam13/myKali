@@ -1,6 +1,6 @@
-#Apps installed
+# Apps installed
 
-##Run as sudo
+## Run as sudo
 > sudo bash msam13_kali.sh 
 
 - GoBuster
