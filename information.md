@@ -1,0 +1,3 @@
+#Apps installed
+- GoBuster
+- seclists
